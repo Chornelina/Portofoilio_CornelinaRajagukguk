@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Star Machinery | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: white;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #0056b3;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .contact {
+      margin-top: -10px;
+      color: #666;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Star Machinery</h1>
+    <p class="contact">📞 0923-456-789 | ✉️ starmachinery@gmail.com | 📍 Jakarta Barat</p>
+
+    <div class="section">
+      <h2>Profil</h2>
+      <p>
+        Mahasiswa aktif Sistem Informasi dengan pengalaman lebih dari tiga tahun sebagai frontliner apotek dan administrator keuangan. 
+        Terbiasa belajar mandiri dan cepat beradaptasi, serta memiliki kemampuan komunikasi dan observasi yang kuat.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Pendidikan</h2>
+      <ul>
+        <li>Universitas Bina Sarana Informatika (2023 – 2026) – Sistem Informasi, IPK 3.8</li>
+        <li>SMA Negeri 1 Sei Bamban (2018 – 2021) – Jurusan IPA, Nilai Akhir 92</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Pengalaman Kerja</h2>
+      <h3>Administrator Keuangan – CV Kemilau Mandiri Sejahtera</h3>
+      <p><em>Sep 2022 – Sekarang</em></p>
+      <ul>
+        <li>Mengelola anggaran, pelaporan keuangan, dan pajak</li>
+        <li>Membuat faktur, surat penawaran, dan mengatur kas kecil</li>
+        <li>Mendesain materi promosi dengan Canva</li>
+      </ul>
+
+      <h3>Karyawan Apotek – Apotek Surya</h3>
+      <p><em>Feb 2022 – Agu 2022</em></p>
+      <ul>
+        <li>Melayani pasien dan memberikan informasi tentang obat</li>
+        <li>Melatih staf baru dan menerapkan protokol kesehatan COVID-19</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Keterampilan</h2>
+      <ul>
+        <li>Microsoft Word, Excel, Canva, Figma, CoreTAX</li>
+        <li>Laporan keuangan, kas kecil, pelaporan pajak</li>
+        <li>Komunikasi efektif dan public speaking</li>
+        <li>Desain visual dan presentasi</li>
+        <li>Adaptasi cepat dan pembelajaran mandiri</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
